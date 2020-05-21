@@ -1,5 +1,5 @@
 import React from "react";
-import { Switch, Route, BrowserRouter } from "react-router-dom";
+import { Switch, Route, HashRouter } from "react-router-dom";
 import { createGlobalStyle } from "styled-components";
 import { Provider } from "react-redux";
 import store from "store/store";
@@ -35,7 +35,7 @@ const GlobalStyle = createGlobalStyle`
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter basename={process.env.PUBLIC_URL}>
       <Switch>
         <Provider store={store}>
           <GlobalStyle />
@@ -56,7 +56,7 @@ function App() {
           <Route path="/accesories/:id" component={ProductPage} />
         </Provider>
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
