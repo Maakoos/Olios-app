@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/Olios-app/static/js/main.bd4e2768.chunk.js",
-    "main.js.map": "/Olios-app/static/js/main.bd4e2768.chunk.js.map",
+    "main.js": "/Olios-app/static/js/main.00fd1814.chunk.js",
+    "main.js.map": "/Olios-app/static/js/main.00fd1814.chunk.js.map",
     "runtime-main.js": "/Olios-app/static/js/runtime-main.fb1a4826.js",
     "runtime-main.js.map": "/Olios-app/static/js/runtime-main.fb1a4826.js.map",
-    "static/js/2.5f4198e3.chunk.js": "/Olios-app/static/js/2.5f4198e3.chunk.js",
-    "static/js/2.5f4198e3.chunk.js.map": "/Olios-app/static/js/2.5f4198e3.chunk.js.map",
+    "static/js/2.52045435.chunk.js": "/Olios-app/static/js/2.52045435.chunk.js",
+    "static/js/2.52045435.chunk.js.map": "/Olios-app/static/js/2.52045435.chunk.js.map",
     "index.html": "/Olios-app/index.html",
-    "precache-manifest.8fab7c0de91f13035c2807f51e438dcb.js": "/Olios-app/precache-manifest.8fab7c0de91f13035c2807f51e438dcb.js",
+    "precache-manifest.7023fb6bcf710e3fbd2176d7768a14be.js": "/Olios-app/precache-manifest.7023fb6bcf710e3fbd2176d7768a14be.js",
     "service-worker.js": "/Olios-app/service-worker.js",
-    "static/js/2.5f4198e3.chunk.js.LICENSE.txt": "/Olios-app/static/js/2.5f4198e3.chunk.js.LICENSE.txt",
+    "static/js/2.52045435.chunk.js.LICENSE.txt": "/Olios-app/static/js/2.52045435.chunk.js.LICENSE.txt",
     "static/media/background.jpg": "/Olios-app/static/media/background.8c01739c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fb1a4826.js",
-    "static/js/2.5f4198e3.chunk.js",
-    "static/js/main.bd4e2768.chunk.js"
+    "static/js/2.52045435.chunk.js",
+    "static/js/main.00fd1814.chunk.js"
   ]
 }
