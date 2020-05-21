@@ -400,6 +400,7 @@ const reducer = (state = initialStore, action) => {
         return { ...state, addItem };
       } else {
         addItem.amountValue = amountValue;
+        alert("added to cart");
       }
       return {
         ...state,
