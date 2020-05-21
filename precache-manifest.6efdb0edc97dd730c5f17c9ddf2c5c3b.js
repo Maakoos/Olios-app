@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c35644c76ff763b27d65e7fab653dda8",
+    "revision": "cb6ef93098e6edd7e54154398c852168",
     "url": "/Olios-app/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Olios-app/static/js/2.52045435.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32d725dca2218b3975c3",
-    "url": "/Olios-app/static/js/main.00fd1814.chunk.js"
+    "revision": "88e32a79447295a1c0f1",
+    "url": "/Olios-app/static/js/main.0f63fb8e.chunk.js"
   },
   {
     "revision": "40e0be396e23f9e65e17",

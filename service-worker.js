@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Olios-app/precache-manifest.7023fb6bcf710e3fbd2176d7768a14be.js"
+  "/Olios-app/precache-manifest.6efdb0edc97dd730c5f17c9ddf2c5c3b.js"
 );
 
 self.addEventListener('message', (event) => {
